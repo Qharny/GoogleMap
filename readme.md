@@ -20,6 +20,7 @@ Before you begin, ensure you have met the following requirements:
 - You have a basic understanding of HTML, CSS, and JavaScript
 - You have a web server to host the application
 
+
 ## Installation
 
 1. Clone this repository to your local machine.
